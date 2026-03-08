@@ -1,0 +1,6 @@
+/ReviewPulse-AutoBlog
+├── .github/workflows/main.yml  # The "Brain" (Automation)
+├── summarize.py               # The "Workhorse" (Python code)
+├── links.txt                  # The "Trigger" (Paste URLs here)
+├── requirements.txt           # List of libraries to install
+└── README.md                  # Project description
